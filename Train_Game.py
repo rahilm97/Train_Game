@@ -1,7 +1,6 @@
 '''
 Name: Rahil Mehta
-This code is based on the following tutorial, with a different image and added sound:
-https://www.pygame.org/docs/tut/PygameIntro.html
+This is a simple train game implemented using PyGame.
 '''
 import sys
 import pygame
